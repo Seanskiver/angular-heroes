@@ -1,0 +1,9 @@
+{
+  "port": 8080,
+  "server": {
+    "baseDir": "heroes",
+    "routes": {
+      "/node_modules": "node_modules"
+    }
+  }
+}
